@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aneesah19441008" target="blank"><img src="https://img.shields.io/twitter/follow/aneesah19441008?logo=twitter&style=for-the-badge" alt="aneesah19441008" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Mern**
+- 🌱 I’m currently learning **Machine Learning and Rebotics**
 
 - 📫 How to reach me **aneesnesu042@gmail.com**
 
